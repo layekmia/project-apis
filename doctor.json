@@ -1,0 +1,110 @@
+[
+  {
+    "id": "D12345",
+    "name": "Dr. Ahsan Rahman",
+    "speciality": "Cardiologist",
+    "experience": "12 years",
+    "isAvailable": true,
+    "licenceNumber": "BD-MED-2023-001",
+    "licenceType": "Type-A"
+  },
+  {
+    "id": "D12346",
+    "name": "Dr. Nusrat Jahan",
+    "speciality": "Neurologist",
+    "experience": "9 years",
+    "isAvailable": false,
+    "licenceNumber": "BD-MED-2021-112",
+    "licenceType": "Type-B"
+  },
+  {
+    "id": "D12347",
+    "name": "Dr. Rezaul Karim",
+    "speciality": "Orthopedic",
+    "experience": "15 years",
+    "isAvailable": true,
+    "licenceNumber": "BD-MED-2020-005",
+    "licenceType": "Type-A"
+  },
+  {
+    "id": "D12348",
+    "name": "Dr. Shaila Akter",
+    "speciality": "Dermatologist",
+    "experience": "7 years",
+    "isAvailable": true,
+    "licenceNumber": "BD-MED-2022-087",
+    "licenceType": "Type-C"
+  },
+  {
+    "id": "D12349",
+    "name": "Dr. Tanvir Hasan",
+    "speciality": "ENT Specialist",
+    "experience": "10 years",
+    "isAvailable": false,
+    "licenceNumber": "BD-MED-2019-054",
+    "licenceType": "Type-B"
+  },
+  {
+    "id": "D12350",
+    "name": "Dr. Farhana Ahmed",
+    "speciality": "Gynecologist",
+    "experience": "14 years",
+    "isAvailable": true,
+    "licenceNumber": "BD-MED-2018-032",
+    "licenceType": "Type-A"
+  },
+  {
+    "id": "D12351",
+    "name": "Dr. Kazi Mahmud",
+    "speciality": "Psychiatrist",
+    "experience": "8 years",
+    "isAvailable": true,
+    "licenceNumber": "BD-MED-2021-076",
+    "licenceType": "Type-B"
+  },
+  {
+    "id": "D12352",
+    "name": "Dr. Laila Noor",
+    "speciality": "Pediatrician",
+    "experience": "6 years",
+    "isAvailable": false,
+    "licenceNumber": "BD-MED-2023-014",
+    "licenceType": "Type-C"
+  },
+  {
+    "id": "D12353",
+    "name": "Dr. Habib Ullah",
+    "speciality": "Oncologist",
+    "experience": "13 years",
+    "isAvailable": true,
+    "licenceNumber": "BD-MED-2017-099",
+    "licenceType": "Type-A"
+  },
+  {
+    "id": "D12354",
+    "name": "Dr. Mehnaz Chowdhury",
+    "speciality": "Nephrologist",
+    "experience": "11 years",
+    "isAvailable": true,
+    "licenceNumber": "BD-MED-2019-060",
+    "licenceType": "Type-B"
+  },
+  {
+    "id": "D12355",
+    "name": "Dr. Jamal Uddin",
+    "speciality": "Gastroenterologist",
+    "experience": "9 years",
+    "isAvailable": false,
+    "licenceNumber": "BD-MED-2020-111",
+    "licenceType": "Type-C"
+  },
+  {
+    "id": "D12356",
+    "name": "Dr. Rafiq Hasan",
+    "speciality": "General Surgeon",
+    "experience": "18 years",
+    "isAvailable": true,
+    "licenceNumber": "BD-MED-2015-042",
+    "licenceType": "Type-A"
+  }
+]
