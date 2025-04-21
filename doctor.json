@@ -2,7 +2,7 @@
   {
     "id": "LW1234",
     "name": "Ayesha Rahman",
-    "image" "https://legalcounselbd.com/wp-content/uploads/2020/12/BARRISTER-MITI-SANJANA.jpg",
+    "image": "https://legalcounselbd.com/wp-content/uploads/2020/12/BARRISTER-MITI-SANJANA.jpg",
     "speciality": "Criminal Law",
     "experience": "8 years",
     "isAvailable": true,
@@ -12,7 +12,7 @@
   {
     "id": "LW2345",
     "name": "Farhan Ahmed",
-    "image" "https://www.uchbd.com/uploads/Doctor/DR.%20MD.%20SHAMIM%20CHOWDHURY1703055890_DR.%20MD.%20SHAMIM%20CHOWDHURY1700993913_Dr.png",
+    "image": "https://www.uchbd.com/uploads/Doctor/DR.%20MD.%20SHAMIM%20CHOWDHURY1703055890_DR.%20MD.%20SHAMIM%20CHOWDHURY1700993913_Dr.png",
     "speciality": "Family Law",
     "experience": "5 years",
     "isAvailable": false,
@@ -22,7 +22,7 @@
   {
     "id": "LW3456",
     "name": "Nusrat Jahan",
-    "image" "https://legalcounselbd.com/wp-content/uploads/2020/12/ADVOCATE-AFRIN-JAHAN-KHAN.jpg",
+    "image": "https://legalcounselbd.com/wp-content/uploads/2020/12/ADVOCATE-AFRIN-JAHAN-KHAN.jpg",
     "speciality": "Corporate Law",
     "experience": "10 years",
     "isAvailable": true,
@@ -32,7 +32,7 @@
   {
     "id": "LW4567",
     "name": "Shakil Hossain",
-    "image" "https://www.fmassociatesbd.com/images/individual/lawyer_barrister_Advocate_highcourt_supremecourt_bangladesh_sarjeanrahmanlianjunior_partner_fmassociates.jpg",
+    "image": "https://www.fmassociatesbd.com/images/individual/lawyer_barrister_Advocate_highcourt_supremecourt_bangladesh_sarjeanrahmanlianjunior_partner_fmassociates.jpg",
     "speciality": "Civil Law",
     "experience": "7 years",
     "isAvailable": true,
@@ -42,7 +42,7 @@
   {
     "id": "LW5678",
     "name": "Tanzim Haque",
-    "image" "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSzcXYHTaWGbZ_ojkwuRYSpDO_DiQw33IbxQ&s",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSzcXYHTaWGbZ_ojkwuRYSpDO_DiQw33IbxQ&s",
     "speciality": "Tax Law",
     "experience": "9 years",
     "isAvailable": false,
@@ -52,7 +52,7 @@
   {
     "id": "LW6789",
     "name": "Meherun Nesa",
-    "image" "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSahvkKu9T3Kr7apJ1mscAV_Jz8Nvs_U7OwUQ&s",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSahvkKu9T3Kr7apJ1mscAV_Jz8Nvs_U7OwUQ&s",
     "speciality": "Environmental Law",
     "experience": "6 years",
     "isAvailable": true,
@@ -62,7 +62,7 @@
   {
     "id": "LW7890",
     "name": "Omar Faruk",
-    "image" "https://www.advocarelaw.com/wp-content/uploads/2016/10/four.jpg",
+    "image": "https://www.advocarelaw.com/wp-content/uploads/2016/10/four.jpg",
     "speciality": "Immigration Law",
     "experience": "11 years",
     "isAvailable": true,
@@ -72,7 +72,7 @@
   {
     "id": "LW8901",
     "name": "Kazi Anika",
-    "image" "https://legalcounselbd.com/wp-content/uploads/2020/12/BARRISTER-RABIYA-J-FIROZ.jpg",
+    "image": "https://legalcounselbd.com/wp-content/uploads/2020/12/BARRISTER-RABIYA-J-FIROZ.jpg",
     "speciality": "Property Law",
     "experience": "4 years",
     "isAvailable": false,
@@ -82,7 +82,7 @@
   {
     "id": "LW9012",
     "name": "Samiul Islam",
-    "image" "https://www.fmassociatesbd.com/images/individual/lawyer_barrister_wazedjamil_associate_fmassociates.jpg",
+    "image": "https://www.fmassociatesbd.com/images/individual/lawyer_barrister_wazedjamil_associate_fmassociates.jpg",
     "speciality": "Cyber Law",
     "experience": "3 years",
     "isAvailable": true,
@@ -92,7 +92,7 @@
   {
     "id": "LW1122",
     "name": "Faria Kabir",
-    "image" "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeu_yIp57FQk1QHImcBRpigZ-2223mtuc9mA&s",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeu_yIp57FQk1QHImcBRpigZ-2223mtuc9mA&s",
     "speciality": "Labour Law",
     "experience": "6 years",
     "isAvailable": true,
@@ -102,7 +102,7 @@
   {
     "id": "LW2233",
     "name": "Nazmul Haque",
-    "image" "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlv3uLdirlkgs-UcgmgL1V8EZbY4KYr_sibg&s",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlv3uLdirlkgs-UcgmgL1V8EZbY4KYr_sibg&s",
     "speciality": "International Law",
     "experience": "12 years",
     "isAvailable": false,
@@ -112,7 +112,7 @@
   {
     "id": "LW3344",
     "name": "Jannatul Ferdous",
-    "image" "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCrfguFYnlzzKy4YRjMN7VUq6-vItTKEajvg&s",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCrfguFYnlzzKy4YRjMN7VUq6-vItTKEajvg&s",
     "speciality": "Human Rights Law",
     "experience": "7 years",
     "isAvailable": true,
