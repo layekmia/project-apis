@@ -7,7 +7,8 @@
     "experience": "8+ years",
     "availability": ["Sunday", "Monday", "Wednesday", "Friday"],
     "licenceNumber": "BD-CR-83921",
-    "fees": 2500
+    "fees": 2500,
+    "shortDescription": "Expert in handling criminal defense cases with a strong courtroom presence."
   },
   {
     "id": "LW2345",
@@ -17,7 +18,8 @@
     "experience": "5+ years",
     "availability": ["Tuesday", "Thursday"],
     "licenceNumber": "BD-FM-38492",
-    "fees": 2000
+    "fees": 2000,
+    "shortDescription": "Dedicated to resolving family matters with compassion and professionalism."
   },
   {
     "id": "LW3456",
@@ -27,7 +29,8 @@
     "experience": "10+ years",
     "availability": ["Monday", "Wednesday", "Friday", "Saturday"],
     "licenceNumber": "BD-CP-82930",
-    "fees": 4000
+    "fees": 4000,
+    "shortDescription": "Skilled in advising corporate clients on legal compliance and contracts."
   },
   {
     "id": "LW4567",
@@ -37,7 +40,8 @@
     "experience": "7+ years",
     "availability": ["Sunday", "Tuesday", "Thursday"],
     "licenceNumber": "BD-CV-12838",
-    "fees": 1800
+    "fees": 1800,
+    "shortDescription": "Experienced in resolving civil disputes and property issues."
   },
   {
     "id": "LW5678",
@@ -47,7 +51,8 @@
     "experience": "9+ years",
     "availability": ["Wednesday", "Friday"],
     "licenceNumber": "BD-TX-37492",
-    "fees": 3500
+    "fees": 3500,
+    "shortDescription": "Helps clients navigate complex tax regulations and disputes."
   },
   {
     "id": "LW6789",
@@ -57,7 +62,8 @@
     "experience": "6+ years",
     "availability": ["Monday", "Tuesday", "Thursday", "Saturday"],
     "licenceNumber": "BD-EN-83746",
-    "fees": 3000
+    "fees": 3000,
+    "shortDescription": "Advocates for sustainable development and environmental protection."
   },
   {
     "id": "LW7890",
@@ -67,7 +73,8 @@
     "experience": "11+ years",
     "availability": ["Sunday", "Wednesday", "Friday"],
     "licenceNumber": "BD-IM-98347",
-    "fees": 4200
+    "fees": 4200,
+    "shortDescription": "Specializes in immigration processes, visa, and residency matters."
   },
   {
     "id": "LW8901",
@@ -77,7 +84,8 @@
     "experience": "4+ years",
     "availability": ["Tuesday", "Thursday"],
     "licenceNumber": "BD-PP-34590",
-    "fees": 2200
+    "fees": 2200,
+    "shortDescription": "Helps clients with property transactions and ownership disputes."
   },
   {
     "id": "LW9012",
@@ -87,7 +95,8 @@
     "experience": "3+ years",
     "availability": ["Monday", "Wednesday", "Friday"],
     "licenceNumber": "BD-CY-19384",
-    "fees": 2600
+    "fees": 2600,
+    "shortDescription": "Handles cases related to online fraud, data privacy, and cybersecurity."
   },
   {
     "id": "LW1122",
@@ -97,7 +106,8 @@
     "experience": "6+ years",
     "availability": ["Sunday", "Tuesday", "Thursday", "Saturday"],
     "licenceNumber": "BD-LB-23984",
-    "fees": 2700
+    "fees": 2700,
+    "shortDescription": "Assists workers and employers in labor disputes and legal rights."
   },
   {
     "id": "LW2233",
@@ -107,7 +117,8 @@
     "experience": "12+ years",
     "availability": ["Monday", "Wednesday"],
     "licenceNumber": "BD-IN-92837",
-    "fees": 5000
+    "fees": 5000,
+    "shortDescription": "Expert in international treaties, cross-border legal matters, and diplomacy."
   },
   {
     "id": "LW3344",
@@ -117,6 +128,7 @@
     "experience": "7+ years",
     "availability": ["Tuesday", "Thursday", "Saturday"],
     "licenceNumber": "BD-HR-38472",
-    "fees": 2800
+    "fees": 2800,
+    "shortDescription": "Advocates for justice in cases of human rights violations and equality."
   }
 ]
