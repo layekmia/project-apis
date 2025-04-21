@@ -1,110 +1,110 @@
 [
   {
-    "id": "DOC123",
-    "name": "Dr. Afsana Rahman",
-    "speciality": "Cardiologist",
-    "experience": "10 years",
-    "isAvailable": true,
-    "licence": "BD-MED-90876",
-    "fees": 1500
-  },
-  {
-    "id": "DOC124",
-    "name": "Dr. Farhan Islam",
-    "speciality": "Dermatologist",
-    "experience": "6 years",
-    "isAvailable": false,
-    "licence": "BD-MED-75642",
-    "fees": 1200
-  },
-  {
-    "id": "DOC125",
-    "name": "Dr. Nusrat Jahan",
-    "speciality": "Pediatrician",
+    "id": "LW1234",
+    "name": "Ayesha Rahman",
+    "speciality": "Criminal Law",
     "experience": "8 years",
     "isAvailable": true,
-    "licence": "BD-MED-63489",
-    "fees": 1000
+    "licenceNumber": "BD-CR-83921",
+    "fees": 2500
   },
   {
-    "id": "DOC126",
-    "name": "Dr. Mizanur Rahman",
-    "speciality": "Neurologist",
-    "experience": "12 years",
-    "isAvailable": true,
-    "licence": "BD-MED-81234",
-    "fees": 1800
-  },
-  {
-    "id": "DOC127",
-    "name": "Dr. Ruma Akter",
-    "speciality": "Gynecologist",
-    "experience": "9 years",
+    "id": "LW2345",
+    "name": "Farhan Ahmed",
+    "speciality": "Family Law",
+    "experience": "5 years",
     "isAvailable": false,
-    "licence": "BD-MED-45321",
-    "fees": 1300
-  },
-  {
-    "id": "DOC128",
-    "name": "Dr. Zubair Hossain",
-    "speciality": "Orthopedic",
-    "experience": "11 years",
-    "isAvailable": true,
-    "licence": "BD-MED-98765",
-    "fees": 1600
-  },
-  {
-    "id": "DOC129",
-    "name": "Dr. Sanjana Karim",
-    "speciality": "Oncologist",
-    "experience": "13 years",
-    "isAvailable": true,
-    "licence": "BD-MED-11223",
+    "licenceNumber": "BD-FM-38492",
     "fees": 2000
   },
   {
-    "id": "DOC130",
-    "name": "Dr. Khalid Mahmud",
-    "speciality": "ENT Specialist",
-    "experience": "7 years",
-    "isAvailable": false,
-    "licence": "BD-MED-22446",
-    "fees": 950
-  },
-  {
-    "id": "DOC131",
-    "name": "Dr. Sabina Yasmin",
-    "speciality": "General Physician",
-    "experience": "5 years",
-    "isAvailable": true,
-    "licence": "BD-MED-77889",
-    "fees": 800
-  },
-  {
-    "id": "DOC132",
-    "name": "Dr. Imran Haque",
-    "speciality": "Psychiatrist",
+    "id": "LW3456",
+    "name": "Nusrat Jahan",
+    "speciality": "Corporate Law",
     "experience": "10 years",
     "isAvailable": true,
-    "licence": "BD-MED-66778",
-    "fees": 1400
+    "licenceNumber": "BD-CP-82930",
+    "fees": 4000
   },
   {
-    "id": "DOC133",
-    "name": "Dr. Anika Sultana",
-    "speciality": "Nephrologist",
+    "id": "LW4567",
+    "name": "Shakil Hossain",
+    "speciality": "Civil Law",
+    "experience": "7 years",
+    "isAvailable": true,
+    "licenceNumber": "BD-CV-12838",
+    "fees": 1800
+  },
+  {
+    "id": "LW5678",
+    "name": "Tanzim Haque",
+    "speciality": "Tax Law",
     "experience": "9 years",
     "isAvailable": false,
-    "licence": "BD-MED-55667",
-    "fees": 1700
+    "licenceNumber": "BD-TX-37492",
+    "fees": 3500
   },
   {
-    "id": "DOC134",
-    "name": "Dr. Mahmudul Hasan",
-    "speciality": "Urologist",
-    "experience": "8 years",
+    "id": "LW6789",
+    "name": "Meherun Nesa",
+    "speciality": "Environmental Law",
+    "experience": "6 years",
     "isAvailable": true,
-    "licence": "BD-MED-33445",
-    "fees": 1250
+    "licenceNumber": "BD-EN-83746",
+    "fees": 3000
+  },
+  {
+    "id": "LW7890",
+    "name": "Omar Faruk",
+    "speciality": "Immigration Law",
+    "experience": "11 years",
+    "isAvailable": true,
+    "licenceNumber": "BD-IM-98347",
+    "fees": 4200
+  },
+  {
+    "id": "LW8901",
+    "name": "Kazi Anika",
+    "speciality": "Property Law",
+    "experience": "4 years",
+    "isAvailable": false,
+    "licenceNumber": "BD-PP-34590",
+    "fees": 2200
+  },
+  {
+    "id": "LW9012",
+    "name": "Samiul Islam",
+    "speciality": "Cyber Law",
+    "experience": "3 years",
+    "isAvailable": true,
+    "licenceNumber": "BD-CY-19384",
+    "fees": 2600
+  },
+  {
+    "id": "LW1122",
+    "name": "Faria Kabir",
+    "speciality": "Labour Law",
+    "experience": "6 years",
+    "isAvailable": true,
+    "licenceNumber": "BD-LB-23984",
+    "fees": 2700
+  },
+  {
+    "id": "LW2233",
+    "name": "Nazmul Haque",
+    "speciality": "International Law",
+    "experience": "12 years",
+    "isAvailable": false,
+    "licenceNumber": "BD-IN-92837",
+    "fees": 5000
+  },
+  {
+    "id": "LW3344",
+    "name": "Jannatul Ferdous",
+    "speciality": "Human Rights Law",
+    "experience": "7 years",
+    "isAvailable": true,
+    "licenceNumber": "BD-HR-38472",
+    "fees": 2800
   }
 ]
