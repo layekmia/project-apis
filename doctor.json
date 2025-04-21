@@ -1,110 +1,110 @@
 [
   {
-    "id": "D12345",
-    "name": "Dr. Ahsan Rahman",
+    "id": "DOC123",
+    "name": "Dr. Afsana Rahman",
     "speciality": "Cardiologist",
-    "experience": "12 years",
-    "isAvailable": true,
-    "licenceNumber": "BD-MED-2023-001",
-    "licenceType": "Type-A"
-  },
-  {
-    "id": "D12346",
-    "name": "Dr. Nusrat Jahan",
-    "speciality": "Neurologist",
-    "experience": "9 years",
-    "isAvailable": false,
-    "licenceNumber": "BD-MED-2021-112",
-    "licenceType": "Type-B"
-  },
-  {
-    "id": "D12347",
-    "name": "Dr. Rezaul Karim",
-    "speciality": "Orthopedic",
-    "experience": "15 years",
-    "isAvailable": true,
-    "licenceNumber": "BD-MED-2020-005",
-    "licenceType": "Type-A"
-  },
-  {
-    "id": "D12348",
-    "name": "Dr. Shaila Akter",
-    "speciality": "Dermatologist",
-    "experience": "7 years",
-    "isAvailable": true,
-    "licenceNumber": "BD-MED-2022-087",
-    "licenceType": "Type-C"
-  },
-  {
-    "id": "D12349",
-    "name": "Dr. Tanvir Hasan",
-    "speciality": "ENT Specialist",
     "experience": "10 years",
-    "isAvailable": false,
-    "licenceNumber": "BD-MED-2019-054",
-    "licenceType": "Type-B"
-  },
-  {
-    "id": "D12350",
-    "name": "Dr. Farhana Ahmed",
-    "speciality": "Gynecologist",
-    "experience": "14 years",
     "isAvailable": true,
-    "licenceNumber": "BD-MED-2018-032",
-    "licenceType": "Type-A"
+    "licence": "BD-MED-90876",
+    "fees": 1500
   },
   {
-    "id": "D12351",
-    "name": "Dr. Kazi Mahmud",
-    "speciality": "Psychiatrist",
-    "experience": "8 years",
-    "isAvailable": true,
-    "licenceNumber": "BD-MED-2021-076",
-    "licenceType": "Type-B"
-  },
-  {
-    "id": "D12352",
-    "name": "Dr. Laila Noor",
-    "speciality": "Pediatrician",
+    "id": "DOC124",
+    "name": "Dr. Farhan Islam",
+    "speciality": "Dermatologist",
     "experience": "6 years",
     "isAvailable": false,
-    "licenceNumber": "BD-MED-2023-014",
-    "licenceType": "Type-C"
+    "licence": "BD-MED-75642",
+    "fees": 1200
   },
   {
-    "id": "D12353",
-    "name": "Dr. Habib Ullah",
+    "id": "DOC125",
+    "name": "Dr. Nusrat Jahan",
+    "speciality": "Pediatrician",
+    "experience": "8 years",
+    "isAvailable": true,
+    "licence": "BD-MED-63489",
+    "fees": 1000
+  },
+  {
+    "id": "DOC126",
+    "name": "Dr. Mizanur Rahman",
+    "speciality": "Neurologist",
+    "experience": "12 years",
+    "isAvailable": true,
+    "licence": "BD-MED-81234",
+    "fees": 1800
+  },
+  {
+    "id": "DOC127",
+    "name": "Dr. Ruma Akter",
+    "speciality": "Gynecologist",
+    "experience": "9 years",
+    "isAvailable": false,
+    "licence": "BD-MED-45321",
+    "fees": 1300
+  },
+  {
+    "id": "DOC128",
+    "name": "Dr. Zubair Hossain",
+    "speciality": "Orthopedic",
+    "experience": "11 years",
+    "isAvailable": true,
+    "licence": "BD-MED-98765",
+    "fees": 1600
+  },
+  {
+    "id": "DOC129",
+    "name": "Dr. Sanjana Karim",
     "speciality": "Oncologist",
     "experience": "13 years",
     "isAvailable": true,
-    "licenceNumber": "BD-MED-2017-099",
-    "licenceType": "Type-A"
+    "licence": "BD-MED-11223",
+    "fees": 2000
   },
   {
-    "id": "D12354",
-    "name": "Dr. Mehnaz Chowdhury",
-    "speciality": "Nephrologist",
-    "experience": "11 years",
+    "id": "DOC130",
+    "name": "Dr. Khalid Mahmud",
+    "speciality": "ENT Specialist",
+    "experience": "7 years",
+    "isAvailable": false,
+    "licence": "BD-MED-22446",
+    "fees": 950
+  },
+  {
+    "id": "DOC131",
+    "name": "Dr. Sabina Yasmin",
+    "speciality": "General Physician",
+    "experience": "5 years",
     "isAvailable": true,
-    "licenceNumber": "BD-MED-2019-060",
-    "licenceType": "Type-B"
+    "licence": "BD-MED-77889",
+    "fees": 800
   },
   {
-    "id": "D12355",
-    "name": "Dr. Jamal Uddin",
-    "speciality": "Gastroenterologist",
+    "id": "DOC132",
+    "name": "Dr. Imran Haque",
+    "speciality": "Psychiatrist",
+    "experience": "10 years",
+    "isAvailable": true,
+    "licence": "BD-MED-66778",
+    "fees": 1400
+  },
+  {
+    "id": "DOC133",
+    "name": "Dr. Anika Sultana",
+    "speciality": "Nephrologist",
     "experience": "9 years",
     "isAvailable": false,
-    "licenceNumber": "BD-MED-2020-111",
-    "licenceType": "Type-C"
+    "licence": "BD-MED-55667",
+    "fees": 1700
   },
   {
-    "id": "D12356",
-    "name": "Dr. Rafiq Hasan",
-    "speciality": "General Surgeon",
-    "experience": "18 years",
+    "id": "DOC134",
+    "name": "Dr. Mahmudul Hasan",
+    "speciality": "Urologist",
+    "experience": "8 years",
     "isAvailable": true,
-    "licenceNumber": "BD-MED-2015-042",
-    "licenceType": "Type-A"
+    "licence": "BD-MED-33445",
+    "fees": 1250
   }
 ]
