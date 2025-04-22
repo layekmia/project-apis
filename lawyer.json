@@ -27,7 +27,7 @@
     "image": "https://legalcounselbd.com/wp-content/uploads/2020/12/ADVOCATE-AFRIN-JAHAN-KHAN.jpg",
     "speciality": "Corporate Law",
     "experience": "10+ years",
-    "availability": ["Monday", "Wednesday", "Friday", "Saturday"],
+    "availability": ["Monday", "Wednesday", "Friday", "Saturday", "Tuesday"],
     "licenceNumber": "BD-CP-82930",
     "fees": 4000,
     "shortDescription": "Advocate Nusrat Jahan has been practicing corporate law for over a decade, helping businesses with legal compliance, contracts, and mergers. Her in-depth legal insight is trusted by many top companies."
@@ -49,7 +49,7 @@
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSzcXYHTaWGbZ_ojkwuRYSpDO_DiQw33IbxQ&s",
     "speciality": "Tax Law",
     "experience": "9+ years",
-    "availability": ["Wednesday", "Friday"],
+    "availability": ["Wednesday", "Friday", "Tuesday"],
     "licenceNumber": "BD-TX-37492",
     "fees": 3500,
     "shortDescription": "Tanzim Haque is a tax lawyer with 9+ years of experience in corporate and personal tax advisory. He assists individuals and businesses with audits, tax planning, and dispute resolution."
@@ -71,7 +71,7 @@
     "image": "https://www.advocarelaw.com/wp-content/uploads/2016/10/four.jpg",
     "speciality": "Immigration Law",
     "experience": "11+ years",
-    "availability": ["Sunday", "Wednesday", "Friday"],
+    "availability": ["Sunday", "Wednesday", "Friday", "Tuesday"],
     "licenceNumber": "BD-IM-98347",
     "fees": 4200,
     "shortDescription": "With 11+ years in immigration law, Omar Faruk provides expert legal support for visa, residency, and citizenship cases. He has helped hundreds navigate complex immigration procedures."
@@ -93,7 +93,7 @@
     "image": "https://www.fmassociatesbd.com/images/individual/lawyer_barrister_wazedjamil_associate_fmassociates.jpg",
     "speciality": "Cyber Law",
     "experience": "3+ years",
-    "availability": ["Monday", "Wednesday", "Friday"],
+    "availability": ["Monday", "Wednesday", "Friday", "Tuesday"],
     "licenceNumber": "BD-CY-19384",
     "fees": 2600,
     "shortDescription": "Samiul Islam is a rising expert in cyber law, helping clients with data privacy, cybercrime cases, and IT legal compliance. His modern legal approach suits today’s digital challenges."
