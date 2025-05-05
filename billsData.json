@@ -34,7 +34,7 @@
   {
     "id": 5,
     "bill_type": "electricity",
-    "icon": "https://diro.io/wp-content/uploads/2022/03/electricity-bill-verification.jpg",
+    "icon": "https://cdn-icons-png.flaticon.com/512/7867/7867697.png",
     "organization": "NESCO",
     "amount": 1725,
     "due-date": "2025-04-15T06:45:00.000Z"
@@ -50,7 +50,7 @@
   {
     "id": 7,
     "bill_type": "telephone",
-    "icon": "https://thumbs.dreamstime.com/b/d-web-vector-illustrations-hands-holding-phone-paying-bills-payment-utility-bank-restaurant-other-flat-design-modern-232176332.jpg",
+    "icon": "https://cdn-icons-png.freepik.com/512/18186/18186881.png",
     "organization": "BTCL",
     "amount": 620,
     "due-date": "2025-04-25T11:00:00.000Z"
