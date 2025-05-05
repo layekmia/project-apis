@@ -2,7 +2,7 @@
   {
     "id": 1,
     "bill_type": "electricity",
-    "icon": "https://icon-to-indicate-electricity-bill",
+    "icon": "https://www.sentineltechno.com/vendor/assets/img/partner-img/desco.png",
     "organization": "DESCO",
     "amount": 1890,
     "due-date": "2025-03-22T06:57:58.110Z"
@@ -10,7 +10,7 @@
   {
     "id": 2,
     "bill_type": "gas",
-    "icon": "https://icon-to-indicate-gas-bill",
+    "icon": "https://tistatech.com/wp-content/uploads/2021/08/tista.png",
     "organization": "Tista",
     "amount": 1488,
     "due-date": "2025-03-28T06:57:58.110Z"
@@ -18,7 +18,7 @@
   {
     "id": 3,
     "bill_type": "water",
-    "icon": "https://icon-to-indicate-water-bill",
+    "icon": "https://seeklogo.com/images/D/dhaka-wasa-logo-3D4FF62D45-seeklogo.com.png",
     "organization": "WASA",
     "amount": 890,
     "due-date": "2025-04-05T10:00:00.000Z"
@@ -26,7 +26,7 @@
   {
     "id": 4,
     "bill_type": "internet",
-    "icon": "https://icon-to-indicate-internet-bill",
+    "icon": "https://media.gcflearnfree.org/content/559ae882607fbe195c5d135d_07_06_2015/connectingtotheinternet_image.png",
     "organization": "Link3",
     "amount": 1299,
     "due-date": "2025-04-10T08:30:00.000Z"
@@ -34,7 +34,7 @@
   {
     "id": 5,
     "bill_type": "electricity",
-    "icon": "https://icon-to-indicate-electricity-bill",
+    "icon": "https://diro.io/wp-content/uploads/2022/03/electricity-bill-verification.jpg",
     "organization": "NESCO",
     "amount": 1725,
     "due-date": "2025-04-15T06:45:00.000Z"
@@ -42,7 +42,7 @@
   {
     "id": 6,
     "bill_type": "gas",
-    "icon": "https://icon-to-indicate-gas-bill",
+    "icon": "https://cdn3d.iconscout.com/3d/premium/thumb/gas-bill-payment-3d-icon-download-in-png-blend-fbx-gltf-file-formats--pay-the-mobile-banking-pack-business-icons-8240166.png?f=webp",
     "organization": "Bakhrabad",
     "amount": 1350,
     "due-date": "2025-04-18T07:20:00.000Z"
@@ -50,7 +50,7 @@
   {
     "id": 7,
     "bill_type": "telephone",
-    "icon": "https://icon-to-indicate-telephone-bill",
+    "icon": "https://thumbs.dreamstime.com/b/d-web-vector-illustrations-hands-holding-phone-paying-bills-payment-utility-bank-restaurant-other-flat-design-modern-232176332.jpg",
     "organization": "BTCL",
     "amount": 620,
     "due-date": "2025-04-25T11:00:00.000Z"
@@ -58,7 +58,7 @@
   {
     "id": 8,
     "bill_type": "tv",
-    "icon": "https://icon-to-indicate-tv-bill",
+    "icon": "https://media.gettyimages.com/id/1434335740/vector/tv-with-dollar-sign-icon-for-design-easily-editable.jpg?s=612x612&w=gi&k=20&c=S2LxgvHeDq5m1aJ-LPtQVwPaAjup4Ahy_kH19FrSbjo=",
     "organization": "Akash DTH",
     "amount": 499,
     "due-date": "2025-04-28T09:15:00.000Z"
