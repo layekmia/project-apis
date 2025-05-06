@@ -1,37 +1,5 @@
 [
   {
-    "id": 1,
-    "bill_type": "electricity",
-    "icon": "https://www.sentineltechno.com/vendor/assets/img/partner-img/desco.png",
-    "organization": "DESCO",
-    "amount": 1890,
-    "due-date": "2025-03-22T06:57:58.110Z" 
-  },
-  {
-    "id": 2,
-    "bill_type": "gas",
-    "icon": "https://tistatech.com/wp-content/uploads/2021/08/tista.png",
-    "organization": "Tista",
-    "amount": 1488,
-    "due-date": "2025-03-28T06:57:58.110Z"
-  },
-  {
-    "id": 3,
-    "bill_type": "water",
-    "icon": "https://seeklogo.com/images/D/dhaka-wasa-logo-3D4FF62D45-seeklogo.com.png",
-    "organization": "WASA",
-    "amount": 890,
-    "due-date": "2025-04-05T10:00:00.000Z"
-  },
-  {
-    "id": 4,
-    "bill_type": "internet",
-    "icon": "https://media.gcflearnfree.org/content/559ae882607fbe195c5d135d_07_06_2015/connectingtotheinternet_image.png",
-    "organization": "Link3",
-    "amount": 1299,
-    "due-date": "2025-04-10T08:30:00.000Z"
-  },
-  {
     "id": 5,
     "bill_type": "electricity",
     "icon": "https://cdn-icons-png.flaticon.com/512/7867/7867697.png",
@@ -62,5 +30,37 @@
     "organization": "Akash DTH",
     "amount": 499,
     "due-date": "2025-04-28T09:15:00.000Z"
+  },
+  {
+    "id": 1,
+    "bill_type": "electricity",
+    "icon": "https://www.sentineltechno.com/vendor/assets/img/partner-img/desco.png",
+    "organization": "DESCO",
+    "amount": 1890,
+    "due-date": "2025-03-22T06:57:58.110Z" 
+  },
+  {
+    "id": 2,
+    "bill_type": "gas",
+    "icon": "https://tistatech.com/wp-content/uploads/2021/08/tista.png",
+    "organization": "Tista",
+    "amount": 1488,
+    "due-date": "2025-03-28T06:57:58.110Z"
+  },
+  {
+    "id": 3,
+    "bill_type": "water",
+    "icon": "https://seeklogo.com/images/D/dhaka-wasa-logo-3D4FF62D45-seeklogo.com.png",
+    "organization": "WASA",
+    "amount": 890,
+    "due-date": "2025-04-05T10:00:00.000Z"
+  },
+  {
+    "id": 4,
+    "bill_type": "internet",
+    "icon": "https://media.gcflearnfree.org/content/559ae882607fbe195c5d135d_07_06_2015/connectingtotheinternet_image.png",
+    "organization": "Link3",
+    "amount": 1299,
+    "due-date": "2025-04-10T08:30:00.000Z"
   }
 ]
